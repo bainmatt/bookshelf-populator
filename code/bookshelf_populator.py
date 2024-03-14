@@ -3,7 +3,7 @@ import wikipedia as wk
 import pandas as pd
 import matplotlib.pyplot as plt
 
-bkshelf = '/Users/matthewbain/Documents/Notebook/old/bookshelf/up next/film next.xlsx'
+bkshelf = '/film next.xlsx'
 
 df = pd.read_excel(bkshelf)
 
