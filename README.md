@@ -4,5 +4,5 @@ A program for populating empty fields in a spreadsheet using metadata pulled fro
 
 ## Roadmap
 
-[] Update this!
+- [ ] Update this!
 
